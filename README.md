@@ -3,7 +3,7 @@
 This project is a continuation project of <a href="https://github.com/lutfailham96/s905x-gpio" target="_blank">GPIO controller for Amlogic S905X devices</a>.
 
 ## Table of GPIO ID
-| Device | Power | IR Blaster | Ethernet |
-| ------ | ----- | ---------- | -------- |
-| HG680P R1GB | 483, 484 | 480 | 481, 482| 
-| HG680P R2GB | 425, 426 | 507 | 506, 510|
+| Device | Power | IR Blaster | Ethernet | Searcher |
+| ------ | ----- | ---------- | -------- | -------- |
+| HG680P R1GB | 483, 484 | 480 | 481, 482| <a href="https://www.facebook.com/arif.kholid" target="_blank">Mohammad Arif</a> |
+| HG680P R2GB | 425, 426 | 507 | 506, 510| <a href="https://github.com/animegasan" target="_blank">animegasan</a> |
