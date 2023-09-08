@@ -1,5 +1,9 @@
 # LuCI support for GPIO LED Configuration
 
+## Customize device GPIO LED behavior with LuCI.
+
+<img alt="Preview" src="https://raw.githubusercontent.com/animegasan/mikwrt/main/preview/luci-app-gpioled.png"/>
+
 This project is a continuation project of <a href="https://github.com/lutfailham96/s905x-gpio" target="_blank">GPIO controller for Amlogic S905X devices</a>.
 
 ## Table of GPIO ID
