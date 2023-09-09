@@ -66,6 +66,7 @@ s:tab("ad", translate("Application Detector"))
 o = s:taboption("ad", ListValue, "ad_app", translate("Application"),
     translate("Application want to monitoring"))
 o:value("cloudflared.config.enabled", translate("Cloudflare"))
+o:value("openclash.config.enabled", translate("OpenClash"))
 o:value("zerotier.sample_config.enabled", translate("ZeroTier"))
 o.default = nil
 ---- status application
