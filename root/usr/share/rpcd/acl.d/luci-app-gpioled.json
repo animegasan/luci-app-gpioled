@@ -1,5 +1,5 @@
 {
-	"luci-app-lucky": {
+	"luci-app-gpioled": {
 		"description": "Grant UCI access for luci-app-gpioled",
 		"read": {
 			"uci": [ "gpioled" ]
