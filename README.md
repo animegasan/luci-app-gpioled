@@ -2,7 +2,7 @@
 
 ## Customize device GPIO LED behavior with LuCI.
 
-<img alt="Preview" src="https://raw.githubusercontent.com/animegasan/mikwrt/main/preview/luci-app-gpioled.png"/>
+<a target="_blank" href="https://github.com/animegasan/luci-app-gpioled/releases"><img src="https://img.shields.io/github/downloads/animegasan/luci-app-gpioled/total?label=Total%20Download&labelColor=blue&style=for-the-badge"></a>
 
 This project is a continuation project of <a href="https://github.com/lutfailham96/s905x-gpio" target="_blank">GPIO controller for Amlogic S905X devices</a>.
 
